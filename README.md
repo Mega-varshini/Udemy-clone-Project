@@ -4,6 +4,9 @@ A fully responsive Udemy Clone website built using HTML and CSS. This project is
 
 The main purpose of this project is to practice front-end web development concepts, improve styling skills, and understand how responsive website layouts are created using basic web technologies.
 
+# How to see
+you can see my project by this link https://mega-varshini.github.io/Udemy-clone-Project/.
+
 ## Features
 - Responsive design for mobile and desktop screens
 - Attractive homepage layout
